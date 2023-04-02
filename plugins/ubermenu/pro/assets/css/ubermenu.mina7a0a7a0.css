@@ -6,8 +6,11 @@
     width: auto;
 
 }
+.bac{} /*its here for inconsistency fix. */button, html input[type=button], input[type=reset], input[type=submit], button:hover, html input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover, .tt_submit, .slider-home-one .content a.thm-button, .about-home-one a.more-btn, .blog-area .single-blog-post a.read-more, .tt_next_post, .tt_prev_post, .blog-with-sidebar .single-blog-post-sidebar a.read-more, .blog-post-pagination ul li:hover a,.blog-post-pagination ul li.active a, .blog-post-pagination ul li:hover a,.blog-post-pagination ul li.active a, .blog-post-pagination ul li a, .btn, .tt-button, form button, .faq-request-area form button[type=submit], .project-area .project-carousel-btn li span:hover, .contact-page .contact-form .tt_submit, .cases-3-col-area .gallery-filter ul li.active span, .cases-3-col-area .gallery-filter ul li:hover span, .cases-3-col-area .single-cases-item .img-box, .sidebar .single-sidebar.broucher-widget a + a, .sidebar .single-sidebar.widget_tag_cloud ul li a:hover, .footer .footer-widget .subscribe-widget .social a:hover, .tt-object, .comment-form .form-submit input,.pagination.page-numbers, .advisor-area .sec-title.two a, .advisor-area .sec-title.two a, .advisor-area.about-page a.view-more, .widget_search form{ border-color:purple; }button:hover, html input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover, .tt_submit:hover, .header .header-navigation ul.navigation-box > li > a:after, .header.home-page-three .thm-container, .header.home-page-three .header-navigation.stricky-fixed, .top-bar-home-two, .header-top-home-three .header-top-contact .single-header-top-content a.get-a-qoute-btn, .slider-home-one .content a.thm-button, .request-a-qoute.home-page-two, .sec-title .tag-line:after, .about-home-one a.more-btn:hover, .about-section.about-page .sec-title .tag-line:after, .service-home-one, .service-list .sec-title .tag-line:after, .service-list .single-service-list .title, .service-list .single-service-list .hover-content, .single-service-page-area .service-single-content h3.title:after, .single-service-page-area .service-single-content .feature-box .single-feature .img-box .inner, .blog-area .single-blog-post .img-box .date-box , .tt_next_post:hover,.tt_prev_post:hover, .blog-with-sidebar .single-blog-post-sidebar a.read-more:hover, .blog-post-pagination ul li:hover a,.blog-post-pagination ul li.active a, .blog-post-pagination ul li:hover a,.blog-post-pagination ul li.active a, .comments-area .title h3:after, .single-blog-post-page .leave-a-comment .title h3:after, .btn:hover,.tt-button:hover, form button:hover, .qoute-faq-area .title h3:after, .faq-request-area form button[type=submit]:hover, .single-fun-fact .line, .project-area .single-project .line, .project-area .project-carousel-btn li span:hover, .testimonial-area .single-testimonial, .testimonial-style-one, .mission-history-area, .call-to-action a.thm-btn, .error-404-area a, .comming-soon-area form .button, .contact-page .sec-title .tag-line:after, .contact-page .contact-form .tt_submit:hover, .contact-page .contact-info.inner, .cases-details-area .cases-info-box, .sidebar .single-sidebar .title h3:after , .sidebar .single-sidebar.sidebar-service-list ul li a:hover, .sidebar .single-sidebar.sidebar-service-list ul li.active a, .sidebar .single-sidebar.broucher-widget a + a, .sidebar .single-sidebar.widget_tag_cloud ul li a:hover, .tt-title.type-2:after, .tt-service-img, .tt-sidebar-service-list li.active a, .tt-sidebar-service-list li a:hover, .what-we-do-area .sec-title .line, .what-we-do-area .single-what-we-do .icon-box .inner, .video-box-area, .request-a-call-back .title h3:after, .request-a-call-back .rqa-form input[type="submit"], .request-a-call-back .rqa-form .bootstrap-select .dropdown-menu > li > a:hover, .request-call-back-two, .company-history-area .single-company-history .year-box .inner, .scrollup,.pagination.page-numbers.current,.paginationa:hover,.paginationa:focus,.project-area .sec-title .line, .advisor-area .sec-title .line, .advisor-area.about-page .sec-title h2:after, .cases-details-area .title h3:after, .footer .footer-widget .footerform input.button, .widget_search form{ background-color:  purple; }.site-main a, button, html input[type=button], input[type=reset], input[type=submit], .tt_submit, #page-wrapper .side-ribbon .social a:hover, .header .header-navigation ul.navigation-box > li.current-menu-item > a,.header .header-navigation ul.navigation-box > li.current > a,.header .header-navigation ul.navigation-box > li:hover > a, .header .header-navigation ul.navigation-box > li > .sub-menu li:hover > a, .header .header-navigation ul.navigation-box > li > ul > li > .sub-menu li:hover > a, .header.home-page-two .header-navigation ul.navigation-box > li.current-menu-item > a, .header.home-page-two .header-navigation ul.navigation-box > li:hover > a, .header.home-page-four .search-icon-box a:hover, .header.home-page-four .header-navigation ul.navigation-box > li.current-menu-item > a,.header.home-page-four .header-navigation ul.navigation-box > li:hover > a, .header.home-page-four .header-navigation ul.navigation-box > li:hover > a, .header.home-page-four .header-navigation .thm-container .right-side-box .social li a, .header.home-page-five .search-icon-box a:hover, .header.home-page-five .header-navigation ul.navigation-box > li.current-menu-item > a,.header.home-page-five .header-navigation ul.navigation-box > li:hover > a, .header.home-page-five .header-navigation ul.navigation-box > li:hover > a, .header.home-page-five .header-navigation .thm-container .right-side-box .social li a, .top-bar-home-three .right-social ul li a, .header-top-home-three .header-top-contact .single-header-top-content .icon-box i, .slider-home-one .content a.thm-button:hover, .sec-title h2 span, .sec-title h2 strong, .about-home-one a.more-btn, .about-section.about-page .sec-title h2 span, .about-home-two .about-content h2 strong,.about-home-two .about-content h2 span, .service-list .sec-title h2 span, .blog-area .single-blog-post h3:hover, .blog-area .single-blog-post a.read-more, .blog-with-sidebar .single-blog-post-sidebar .meta-info-box a.date, .blog-with-sidebar .single-blog-post-sidebar a:hover, .tt_next_post,.tt_prev_post, .blog-with-sidebar .single-blog-post-sidebar a.read-more, .blog-post-pagination ul li a, .comments-area .single-comment .text-box .meta-info a,.btn, .tt-button, form button, .tt_prev_post, .tt_next_post, .qoute-faq-area .qoute-content p.highlighted, .faq-request-area form button[type=submit], .single-fun-fact span.number, .single-fun-fact p, .project-area .single-project h3:hover, .call-to-action a.thm-btn:hover, .error-404-area h2, .error-404-area a:hover, .comming-soon-area ul li .box h4, .comming-soon-area ul li .box span, .contact-page .sec-title h2 span, .contact-page .contact-form .tt_submit, .cases-3-col-area .gallery-filter ul li.active span, .cases-3-col-area .gallery-filter ul li:hover span, .sidebar .single-sidebar.contact-info .single-contact-info .icon-box i, .sidebar .single-sidebar.broucher-widget a, .sidebar .single-sidebar ul li a:hover, .sidebar .single-sidebar.widget_temptt_widget_recentpost .single-post .text-box h4:hover, .footer .footer-widget ul li a:hover, .footer .footer-widget .subscribe-widget form button, .footer .footer-widget .footerform input.button, .footer .footer-widget .subscribe-widget .social a:hover, .tt-contact-info p:before, .tt-contact-info p:last-child:before, .tt-broucher a, .comment-form .form-submit input, .paginationa.active.project-area .sec-title p, .project-area .sec-title p, .blog-area .blog-post-list .single-post-list h3:hover, .blog-area .blog-post-list .single-post-list span, .advisor-area .sec-title.two a, .advisor-area.about-page a.view-more{ color:#bc1ced; }@media(max-width:1024px){.header .navbar-toggle:hover .icon-bar {background:#1ced84;}.header.home-page-four .navbar-toggle:hover .icon-bar {background:#d51ced;}.header.home-page-five .navbar-toggle .icon-bar {background:#921aa1;}}.service-home-one .single-service-home-one a, .service-list .single-service-list .hover-content a, .mission-history-area ul.list-item li, .testimonial-style-one .single-testimonial .text-box span.position {color:#fff;}.single-advisor .img-box .overlay, .project-area .single-project .img-box .overlay, .cases-3-col-area .single-cases-item .img-box .overlay{ background:#800d70; }.single-advisor .img-box .overlay:hover, .project-area .single-project .img-box .overlay:hover, .cases-3-col-area .single-cases-item .img-box .overlay:hover{ opacity:.75; }
+
+
 #sliderbox{
-    height: 62vh;
+    height: 400px;
     width: auto;
     /* background-image: url("/wp-content/plugins/ubermenu/pro/assets/css/pexels.jpg"); */
     /* background-image: url("/÷./Desktop/Jaantravel/jaantraveliz.com/pexels.jpg"); */
@@ -17,12 +20,37 @@
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
-        /* position: relative; */
+        opacity: 0.9;
+        position: relative;
 }
 .sliderbox1{
     
+    /* color:rgb(21, 131÷, 89); */
+    position: absolute;
     color: ivory;
-}
+    bottom: 291px;
+    /* text-align: left; */
+    left: 16px;
+    /* bottom: 140px; */
+    font-size: 40px;
+    /* background-color: brown; */
+    
+    background-color: rgb(0,0,0); /*Fallback color*/
+    background-color: rgba(123,45,178, 0.3); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    /* border: 3px solid #f1÷f1f1; */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    padding-top: 250px;;
+    /* text-align: bot÷tom; */
+  }
+  
 .service-home-one{
     background-color: rgb(134, 14, 138);
 }
@@ -39,7 +67,7 @@
     display: block;
     padding: 5px 10px;
     /* transition: .6s; */
-    background: purple;
+    background: rgb(115, 28, 108);
 }
 .vx-testimonials-black .testimonial-style-one .testimonial-carousel-one .owl-dots .owl-dot.active span {
     background: #92057b !important;
@@ -54,12 +82,64 @@
     background-color: purple;
 }
 
-#ubermenu-nav-main-20{
+#ubermenu-nav-main-20 {
+    /* max-width: 1170px; */
+    color:green;
+    margin: 0 auto;
+    /* width: auto; */
+    text-align: center;
+    /* border: 3px solid rgb(3, 179, 120); */
+    /* background:rgb(0, 128, 90); */
+    background-color: purple;
+    padding-right: 5px;
+    padding-left: 10px;
+    
+}
+#ubermenu-nav-main-20 li img{
+    float: right;
+    color:red;
+
+}
+.header .header-navigation ul.navigation-box > li > ul.sub-menu {
+    top: 85% !important;
+    border-radius: 5px !important;
+  	padding: 15px 0px 0px 0px !important;
+    background-color: #8a17a1 !important;
+}
+#ubermenu-nav-main-20 li a{
     /* max-width: 1170px; */
     /* margin: 0 auto; */
+    /* text-align: center; */
+    /* background: rgba(0,0,0,.075); */
+    color:purple;
+    
+}
+nav li{
+    /* background-color
+    : green; */
+    /* margin:0 auto; */
+    
+    /* height: 40px; */
+}
+.nav ul li a{
+    position: relative;
+    /* padding-top: 17px; */
+    background-color: red;
+    /* height: 14px; */
+}
+.nav li {
+    /* border: 3px solid rgb(92, 0, 128); */
+    /* height: auto; */
+    position: relative;
+    width: 80px;
+    /* padding:100px; */
     text-align: center;
-    /* width: 110%; */
-    background: purple;
+    border-radius: 10px;
+    list-style-type: none;
+    /* margin: 0 0 0 0; */
+    /* height: 40px; */
+    /* background:red; */
+   
 }
 
 
@@ -89,8 +169,14 @@
     vertical-align: top;
     line-height: 1.3em;
     border: none;
-    border-radius: 0;
-    pointer-events: auto
+    /* border-radius: 5px; */
+    pointer-events: auto;
+    /* background:rgb(192, 201, 192); */
+    /* border-color: rgb(189, 32, 32); */
+    border-width: 3px;
+    text-align: left;
+    /* width: 100px; */
+    /* padding-left: 6px;; */
 }
 
 .ubermenu,.ubermenu .ubermenu-column,.ubermenu .ubermenu-divider,.ubermenu .ubermenu-item,.ubermenu .ubermenu-nav,.ubermenu .ubermenu-retractor,.ubermenu .ubermenu-row,.ubermenu .ubermenu-search,.ubermenu .ubermenu-search-input,.ubermenu .ubermenu-search-submit,.ubermenu .ubermenu-submenu,.ubermenu .ubermenu-submenu-footer,.ubermenu .ubermenu-tabs,.ubermenu .ubermenu-tabs-panels,.ubermenu .ubermenu-target,.ubermenu-responsive-toggle {
@@ -105,14 +191,16 @@
     -moz-backface-visibility: hidden;
     backface-visibility: hidden;
     -moz-transform: translateZ(0);
-    -webkit-transform: translateZ(0)
+    -webkit-transform: translateZ(0);
 }
 
 .ubermenu {
     display: block;
-    background: rgb(4, 66, 75);
+    /* background: rgb(4, 66, 75); */
     line-height: 1.3em;
-    text-align: left;
+    /* border-colo÷r: green; */
+    border-width: 4px;
+    /* text-align: left; */
 }
 
 .ubermenu-bound {
@@ -129,7 +217,8 @@
 }
 
 .ubermenu-nav {
-    text-align: inherit
+    text-align: inherit;
+    /* background-color: green; */
 }
 
 .ubermenu-nav,.ubermenu-row,.ubermenu-submenu {
@@ -1450,7 +1539,7 @@ body:not(.rtl) .ubermenu.ubermenu-horizontal .ubermenu-item-level-0:first-child>
 }
 
 .ubermenu-admin-notice strong {
-    color: tomato
+    color: rgb(166, 33, 192)
 }
 
 .ubermenu-admin-notice .ubermenu-admin-notice-icon {
